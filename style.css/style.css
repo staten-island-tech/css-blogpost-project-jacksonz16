@@ -11,7 +11,7 @@ body{background-color: #443022;
         left: 750px; 
     }
    .background{
-background-image: url(img/img2.jpg);
+background-image: url(/public/img/img2.jpg);
 background-repeat: no-repeat;
 background-position:cover ;
 background-position: top;
