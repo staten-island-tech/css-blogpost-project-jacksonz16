@@ -1,2 +1,54 @@
+<<<<<<< HEAD
 body{background-color: rgb(255, 0, 0);
 color: ;}
+=======
+<<<<<<< HEAD
+body{background-color: #443022;
+  margin-bottom: 150vw;
+  font-family: 'Dancing Script', cursive;
+  color: white;
+}
+  #i{
+      font-size: 100px;
+      text-align: center;
+      position: absolute;
+      top: 125px;
+      left: 750px; 
+  }
+ .background{
+background-image: url(please/img.jpg);
+background-repeat: no-repeat;
+background-position:cover ;
+background-position: top;
+padding: auto;
+width: 100vw;
+height: 25vw;
+}
+.header{
+  font-size: 5vw;
+  text-align: center;
+}
+.light{
+  color:	RGB(109, 76, 63) ;
+padding: 50px;
+  border: 50px solid whitesmoke;}
+.small-text{
+  font-size: 2vw;
+}
+=======
+/* The animation code */
+@keyframes example {
+    from {background-color: red;}
+    to {background-color: yellow;}
+  }
+  
+  /* The element to apply the animation to */
+  div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 4s;
+  }
+>>>>>>> parent of cbb7aef (v3)
+>>>>>>> b181b254db224045346829c4868947d1f949e00e
